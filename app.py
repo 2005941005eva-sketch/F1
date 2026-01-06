@@ -247,4 +247,8 @@ with left:
     st.dataframe(stint_table, use_container_width=True, hide_index=True)
 
 st.caption("MVP uses synthetic data. Next step: replace with real race lap data (CSV).")
+    st.dataframe(stint_table, use_container_width=True, hide_index=True)
+
+st.caption("MVP uses synthetic data. Next step: replace with real race lap data (CSV).")
+
 
